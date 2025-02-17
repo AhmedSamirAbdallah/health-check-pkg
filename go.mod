@@ -1,6 +1,5 @@
 module github.com/AhmedSamirAbdallah/health-check-pkg
 
-
 go 1.23.3
 
 require (
