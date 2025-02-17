@@ -1,8 +1,9 @@
 package healthcheck
 
 import (
-	"healthcheck/internal/temporal"
 	"time"
+
+	"github.com/AhmedSamirAbdallah/health-check-pkg/pkg/temporal"
 )
 
 type TemporalCheker struct {

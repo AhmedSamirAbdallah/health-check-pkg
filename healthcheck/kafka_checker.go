@@ -1,7 +1,7 @@
 package healthcheck
 
 import (
-	"healthcheck/internal/kafka"
+	"github.com/AhmedSamirAbdallah/health-check-pkg/pkg/kafka"
 	"time"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"healthcheck/healthcheck"
-	"healthcheck/internal/config"
+	"github.com/AhmedSamirAbdallah/health-check-pkg/healthcheck"
+	"github.com/AhmedSamirAbdallah/health-check-pkg/pkg/config"
 )
 
 func main() {

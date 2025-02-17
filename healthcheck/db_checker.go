@@ -1,7 +1,7 @@
 package healthcheck
 
 import (
-	"healthcheck/internal/db"
+	"github.com/AhmedSamirAbdallah/health-check-pkg/pkg/db"
 	"time"
 )
 
